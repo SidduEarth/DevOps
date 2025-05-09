@@ -1,0 +1,11 @@
+Age,Gender,BMI,BloodPressure,Cholesterol,Diabetes
+50,Female,24.8,170,264,No
+34,Female,33.0,118,270,Yes
+70,Male,24.2,115,231,No
+33,Male,22.9,116,245,Yes
+22,Male,20.9,174,251,Yes
+61,Female,20.9,96,245,No
+69,Female,26.2,149,175,Yes
+73,Female,22.3,115,290,No
+62,Female,21.7,130,297,No
+56,Male,29.5,173,297,No
